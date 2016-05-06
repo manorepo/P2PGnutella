@@ -1,0 +1,8 @@
+These directory contains following files:
+Design.pdf: It has details about the design and instructions to run the software
+Test cases and Performance Evaluation.pdf: It contains the test cases and performance evaluation that performed using this software.
+Gnutella output.pdf It has the output for 3X3 Mesh network and Star network
+src Folder: Source folder for the software.
+
+Config.properties: Edit this file as per the required network topology
+Execute Peer as java gnutella/peer
